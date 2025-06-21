@@ -2,6 +2,7 @@
 logicaSuperTrunfo_Aventureiro.c
 ********************************/
 #include <stdio.h>
+#include <stdlib.h> // Para uso da função 'system', para criar pausas e fazer limpeza do terminal quando necessário.
 #include <string.h> // Para uso de funções de manipulação de strings
 #include <locale.h> // Para uso da função 'setlocale' e fazer o programa imprimir caracteres especiais corretamente
 
